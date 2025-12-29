@@ -1,4 +1,5 @@
 # sun-tracking-solar-panel
+Group 7
 /*
   SunTracker.ino
   Two-axis sun tracker using 4 LDRs (top-left, top-right, bottom-left, bottom-right)
